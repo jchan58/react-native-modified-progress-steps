@@ -117,7 +117,7 @@ ProgressStep.defaultProps = {
   previousBtnText: 'Previous',
   finishBtnText: 'Submit',
   nextBtnDisabled: false,
-  previousBtnDisabled: false,
+  previousBtnDisabled: true,
   errors: false,
   removeBtnRow: false,
   scrollable: true
