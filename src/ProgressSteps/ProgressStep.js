@@ -31,6 +31,8 @@ class ProgressStep extends Component {
       alignSelf: 'center',
       textAlign: 'center',
       padding: 8,
+      backgroundColor: '#007AFF',
+      borderRadius: 5,
       ...this.props.nextBtnStyle
     };
 
